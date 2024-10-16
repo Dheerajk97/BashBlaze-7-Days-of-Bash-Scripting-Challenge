@@ -1,0 +1,3 @@
+What is devops?
+
+Devops is a culture that allows you to automate tast in minimal time
